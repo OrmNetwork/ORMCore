@@ -43,7 +43,7 @@ $ go install . ./cmd/...
 
 ## Getting Started
 
-Kaspad has several configuration options available to tweak how it runs, but all
+Ormcore has several configuration options available to tweak how it runs, but all
 of the basic operations work with zero configuration.
 
 ```bash
