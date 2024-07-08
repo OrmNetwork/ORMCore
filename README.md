@@ -15,6 +15,10 @@ ORM Network based on Kaspa, includes protection against ASICs, but allows mining
 
 Go 1.18 or later.
 
+## Latest versions
+
+You can check our latest releases here: https://github.com/OrmNetwork/ORMCore/releases
+
 ## Installation
 
 #### Build from Source
@@ -50,7 +54,7 @@ of the basic operations work with zero configuration.
 $ ormcore
 ```
 
-## Discord
+## Community
 We create discord server soon
 
 ## Our Website and Roadmap
