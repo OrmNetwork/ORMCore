@@ -11,6 +11,26 @@ ORM Network is Kaspa fork representing decentralization with an improved black3P
 
 ORM Network based on Kaspa, includes protection against ASICs, but allows mining on both GPU and CPU. The black3p algorithm we developed ensures that transactions are protected from tracking. In addition, the project does not currently have an explorer. We'll add it later to track the height of the block, but that's it.
 
+## How to create wallet
+
+Use next command:
+ormcorewallet create
+
+## How to mine
+
+First run to node: 
+ormcored --utxoindex
+pause
+
+Open another terminal and start mining
+
+ormcoreminer.exe /miningaddr:ormcore:wallet
+pause
+
+## How to send coins
+
+ormcorewallet send -v 10 -t ormcore:wallet
+
 ## Requirements
 
 Go 1.18 or later.
