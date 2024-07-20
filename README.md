@@ -75,9 +75,11 @@ $ ormcore
 ```
 
 ## Community
-We create discord server soon
+
+Our X: https://x.com/OrmNetwork
 
 ## Our Website and Roadmap
+
 Website: https://ormnetwork.org
 
 
