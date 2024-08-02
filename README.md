@@ -74,13 +74,4 @@ of the basic operations work with zero configuration.
 $ ormcore
 ```
 
-## Community
-
-Our X: https://x.com/OrmNetwork
-Our discord: https://t.co/BJnPHF77Oc
-
-## Our Website and Roadmap
-
-Website: https://ormnetwork.org
-
 
