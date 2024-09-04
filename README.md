@@ -14,22 +14,22 @@ ORM Network based on Kaspa, includes protection against ASICs, but allows mining
 ## How to create wallet
 
 Use next command:
-ormcorewallet create
+`ormcorewallet create`
 
 ## How to mine
 
-First run to node: 
-ormcored --utxoindex
+First run the node: 
+`ormcored --utxoindex`
 pause
 
 Open another terminal and start mining
 
-ormcoreminer.exe /miningaddr:ormcore:wallet
-pause
+`ormcoreminer.exe /miningaddr:ormcore:wallet`
+`pause`
 
 ## How to send coins
 
-ormcorewallet send -v 10 -t ormcore:wallet
+`ormcorewallet send -v 10 -t ormcore:wallet`
 
 ## Requirements
 
@@ -56,7 +56,7 @@ $ go version
 
 ```bash
 $ git clone https://github.com/OrmNetwork/ORMCore
-$ cd ormcore
+$ cd ORMCore
 $ go install . ./cmd/...
 ```
 
